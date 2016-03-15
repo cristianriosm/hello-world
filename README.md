@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I had tacos on the moon and I find them much superior to Earth's tacos.
+I've had tacos on the moon and find them much superior to Earth tacos.
